@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+*.out
+*.o
+*.a
+*.so
+
+# Folders
+vendor/
+bin/
+.idea/
